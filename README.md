@@ -2,7 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:6D28D9,100:8B5CF6&text=Bhavesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20Backend%20Engineering%20•%20Cloud%20Computing&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Backend+Engineering+Enthusiast;Cloud+Computing+Learner;Building+Scalable+Applications;Always+Learning+•+Always+Improving"/>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Backend+Engineering;Cloud+Computing;Learning+System+Design;Open+Source+Enthusiast"/>
+
+</p>
 
 <br>
 
