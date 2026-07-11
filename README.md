@@ -160,15 +160,7 @@ Cloud automation scripts and infrastructure experiments developed during my inte
 </details>
 
 ---
-<h2 align="center">📊 GitHub Overview</h2>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhaveshcpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-</div>
-
----
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
