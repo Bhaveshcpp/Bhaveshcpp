@@ -34,7 +34,7 @@
 
 ---
 
-# 👋 About
+<h2 align="center">👋 About Me</h2>
 
 Hi! I'm **Bhavesh Sharma**, an aspiring **Software Engineer** passionate about building scalable backend systems and cloud-powered applications.
 
@@ -44,7 +44,7 @@ I'm currently expanding my knowledge in **Cloud Computing**, **System Design**, 
 
 ---
 
-# 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 ### Languages
 
@@ -78,7 +78,7 @@ I'm currently expanding my knowledge in **Cloud Computing**, **System Design**, 
 
 ---
 
-# 💼 Featured Work
+<h2 align="center">💼 Featured Work</h2>
 
 <details>
 <summary><b>🚀 Alumnex — Placement Intelligence Platform</b></summary>
@@ -160,3 +160,88 @@ Cloud automation scripts and infrastructure experiments developed during my inte
 </details>
 
 ---
+<h2 align="center">📊 GitHub Overview</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhaveshcpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+</div>
+
+---
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaveshcpp&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<p><i>My contribution graph transformed into a snake animation.</i></p>
+
+<img src="https://raw.githubusercontent.com/Bhaveshcpp/Bhaveshcpp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+
+<h2 align="center">💻 Coding Profiles</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Bhavesh2024/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+
+<a href="mailto:bh2004sh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhavesh-sharma-840400379">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bhaveshcpp">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Great software is built one clean commit at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:6D28D9,100:8B5CF6"/>
+
+</div>
