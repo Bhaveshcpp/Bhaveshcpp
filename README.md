@@ -1,377 +1,196 @@
 <div align="center">
-
-# 💼 Featured Work
-
-<i>Projects that showcase my journey in Backend Engineering and Cloud Computing.</i>
-
-</div>
-
-<details>
-<summary>
-<b>🚀 Alumnex — Placement Intelligence Platform</b>
-</summary>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:6D28D9,100:8B5CF6&text=Bhavesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20•%20Backend%20Engineering%20•%20Cloud%20Computing&descAlignY=58"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Backend+Developer;Cloud+Computing+Enthusiast;Learning+System+Design;Always+Building+Something+New"/>
 <br>
-
-Backend-driven platform for storing, searching and managing alumni interview experiences.
-
-### 🎯 My Role
-**Backend Developer (Primary)**
-
-### ✨ Highlights
-
-- 🔐 JWT Authentication
-- 🛡 Role-Based Access Control
-- ⚡ RESTful APIs
-- 🗄 MongoDB Atlas
-- 🔍 Search & Filtering
-- 📄 CSV Import
-- 📑 Server-side Pagination
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,javascript"/>
-
-</p>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary>
-<b>♻ Smart Waste Collection System</b>
-</summary>
-
-<br>
-
-A smart waste reporting platform that enables users to report waste incidents with location tracking and an intuitive dashboard.
-
-### 🎯 My Role
-
-**Backend Developer**
-
-### ✨ Highlights
-
-- 🌍 Google Maps Integration
-- ⚡ REST APIs
-- 🗄 MongoDB
-- 📊 Admin Dashboard
-- 📍 Geotagged Reports
-- 📂 Incident Management
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,nodejs"/>
-
-</p>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary>
-<b>☁ Cloud Automation Lab</b>
-</summary>
-
-<br>
-
-Cloud automation scripts and infrastructure experiments built during my Cloud & Automation internship.
-
-### ✨ Highlights
-
-- ☁ AWS EC2
-- 🔐 IAM
-- ⚖ Auto Scaling
-- 🐍 Python Automation
-- 🤖 Boto3
-- 🌐 Azure Networking
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,python,bash"/>
-
-</p>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
-
-</div>
-
-<div align="center">
-
-# 💼 Featured Work
-
-<i>Projects that showcase my journey in Backend Engineering and Cloud Computing.</i>
-
-</div>
-
-<details>
-<summary>
-<b>🚀 Alumnex — Placement Intelligence Platform</b>
-</summary>
-
-<br>
-
-Backend-driven platform for storing, searching and managing alumni interview experiences.
-
-### 🎯 My Role
-**Backend Developer (Primary)**
-
-### ✨ Highlights
-
-- 🔐 JWT Authentication
-- 🛡 Role-Based Access Control
-- ⚡ RESTful APIs
-- 🗄 MongoDB Atlas
-- 🔍 Search & Filtering
-- 📄 CSV Import
-- 📑 Server-side Pagination
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,javascript"/>
-
-</p>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary>
-<b>♻ Smart Waste Collection System</b>
-</summary>
-
-<br>
-
-A smart waste reporting platform that enables users to report waste incidents with location tracking and an intuitive dashboard.
-
-### 🎯 My Role
-
-**Backend Developer**
-
-### ✨ Highlights
-
-- 🌍 Google Maps Integration
-- ⚡ REST APIs
-- 🗄 MongoDB
-- 📊 Admin Dashboard
-- 📍 Geotagged Reports
-- 📂 Incident Management
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,nodejs"/>
-
-</p>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary>
-<b>☁ Cloud Automation Lab</b>
-</summary>
-
-<br>
-
-Cloud automation scripts and infrastructure experiments built during my Cloud & Automation internship.
-
-### ✨ Highlights
-
-- ☁ AWS EC2
-- 🔐 IAM
-- ⚖ Auto Scaling
-- 🐍 Python Automation
-- 🤖 Boto3
-- 🌐 Azure Networking
-
-### 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,python,bash"/>
-
-</p>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
-
-</div>
-
-</details>
-
----
-<div align="center">
-
-# 📈 Contribution Activity
-
-<i>Consistency is more important than intensity.</i>
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaveshcpp&theme=tokyo-night&hide_border=true&radius=12"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
-<i>Watch my contributions come alive.</i>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Bhaveshcpp/Bhaveshcpp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 💻 Coding Profiles
-
-<i>Practicing problem solving one challenge at a time.</i>
-
-<br>
-
-<a href="https://leetcode.com/u/Bhavesh2024/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Current Learning
-
-| Backend | Cloud | Exploring |
-|:--------:|:-----:|:---------:|
-| Node.js & Express | AWS | System Design |
-| Authentication | EC2 & IAM | Docker |
-| MongoDB | Networking | CI/CD |
-
-</div>
-
----
-<div align="center">
-
-# 📫 Let's Connect
-
-<i>I'm always open to collaborating on interesting projects, discussing backend engineering, or exploring new opportunities.</i>
-
-<br>
-
 <a href="mailto:bh2004sh@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;
-
 <a href="https://linkedin.com/in/bhavesh-sharma-840400379">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
-
 <a href="https://github.com/Bhaveshcpp">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;
-
 <a href="https://leetcode.com/u/Bhavesh2024/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+<br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Bhaveshcpp&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/Bhaveshcpp?style=for-the-badge&color=6D28D9"/>
+<img src="https://img.shields.io/github/stars/Bhaveshcpp?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
 </div>
-
----
-
-<div align="center">
-
-## 💡 Quote I Live By
-
-> **"Building scalable software, one commit at a time."**
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
-
-If you like my work, consider following my journey and checking out my repositories.
+<br>
+<div align="center">👋 About Me</div>
 
 <br>
+Hi! I'm Bhavesh Sharma, an aspiring Software Engineer passionate about building scalable backend systems and cloud-powered applications.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:6D28D9,100:8B5CF6"/>
+My primary focus is Backend Engineering, where I enjoy designing REST APIs, working with databases, implementing authentication systems, and solving real-world problems with clean, maintainable code.
 
-</div>
+I'm currently expanding my knowledge in Cloud Computing, System Design, and DevOps while building projects that strengthen my software engineering fundamentals.
+
+<br>
+<div align="center">🛠 Tech Stack</div>
+
+<br>
+Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,bash"/>
+</p>
+Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
+</p>
+Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,terraform,git,githubactions,vercel"/>
+</p>
+<br>
+<div align="center">💼 Featured Work</div>
+
+<br>
+<details>
+<summary><b>🚀 Alumnex — Placement Intelligence Platform</b></summary>
+<br>
+Backend-driven platform for managing and searching alumni interview experiences.
+
+Role
+
+
+Backend Developer (Primary)
+
+
+Highlights
+
+
+JWT Authentication
+Role-Based Access
+REST APIs
+MongoDB Atlas
+Pagination & Filtering
+CSV Import
+
+
+Tech Stack
+Node.js  Express.js  MongoDB  React
+
+🔗 Repository: Coming Soon
 
 </details>
 
----
+<details>
+<summary><b>♻ Smart Waste Collection</b></summary>
+<br>
+Smart waste management platform with Google Maps integration and backend APIs.
+
+Role
+
+
+Backend Developer
+
+
+Highlights
+
+
+Google Maps
+REST APIs
+MongoDB
+Admin Dashboard
+
+
+Tech Stack
+Next.js  TypeScript  MongoDB
+
+🔗 Repository: Coming Soon
+
+</details>
+
+<details>
+<summary><b>☁ Cloud Automation Lab</b></summary>
+<br>
+Cloud automation scripts and infrastructure experiments developed during my internship.
+
+Highlights
+
+
+AWS EC2
+IAM
+Auto Scaling
+Boto3
+Python Automation
+
+
+Tech Stack
+AWS  Python  Boto3
+
+🔗 Repository: Coming Soon
+
+</details>
+<br>
+<div align="center">📈 Contribution Activity</div>
+
+<br>
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaveshcpp&theme=tokyo-night&hide_border=true"/>
+</div>
+<br>
+<div align="center">🐍 Contribution Snake</div>
+
+<br>
+<div align="center">
+<p><i>My contribution graph transformed into a snake animation.</i></p>
+<img src="https://raw.githubusercontent.com/Bhaveshcpp/Bhaveshcpp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+<br>
+<div align="center">💻 Coding Profiles</div>
+
+<br>
+<div align="center">
+<a href="https://leetcode.com/u/Bhavesh2024/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</div>
+<br>
+<div align="center">📫 Let's Connect</div>
+
+<br>
+<div align="center">
+<a href="mailto:bh2004sh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/bhavesh-sharma-840400379">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Bhaveshcpp">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+<br>
+<div align="center">
+💡 "Great software is built one clean commit at a time."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:6D28D9,100:8B5CF6"/>
+</div>Contentpdfthis is final readmefile can you make some chnages like makiing the haedings bold and bigger and changing font size or anything else -> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:6D28D9,100:8B5CF6&text=Bhavesh%20Sharma&fpasted
