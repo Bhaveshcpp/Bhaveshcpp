@@ -136,7 +136,7 @@ Backend-driven platform for storing, searching and managing alumni interview exp
 </p>
 
 <div align="center">
-
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6D28D9?style=for-the-badge)](https://alumnex-c96d.vercel.app/)
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Bhaveshcpp/Alumnex)
 
 </div>
