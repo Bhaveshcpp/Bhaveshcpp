@@ -137,7 +137,7 @@ Backend-driven platform for storing, searching and managing alumni interview exp
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Bhaveshcpp/Alumnex)
 
 </div>
 
@@ -177,7 +177,7 @@ A smart waste reporting platform that enables users to report waste incidents wi
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Bhaveshcpp/Waste-Collection-Project)
 
 </div>
 
@@ -213,7 +213,7 @@ Cloud automation scripts and infrastructure experiments built during my Cloud & 
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](YOUR_REPOSITORY_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Bhaveshcpp/Azure-MG-Sub-Governance-Reporting)
 
 </div>
 
