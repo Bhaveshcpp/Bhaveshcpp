@@ -297,9 +297,6 @@ Cloud automation scripts and infrastructure experiments built during my Cloud & 
 
 ---
 
-<
----
-
 <div align="center">
 
 ## 💡 Quote I Live By
