@@ -96,3 +96,181 @@ Currently, I'm focused on strengthening my backend development skills with **Nod
 ---
 
 > *"First, solve the problem. Then, write clean and scalable code."*
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Focus |
+|:--------:|:----------:|:-----:|
+| **Alumnex** | React • Node.js • Express • MongoDB | Backend Engineering |
+| **Smart Waste Collection** | Next.js • TypeScript • MongoDB | Full Stack |
+| **Cloud Automation Lab** | AWS • Python • Boto3 | Cloud Automation |
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 Alumnex
+
+**Placement Intelligence Platform**
+
+Backend-driven platform for storing, searching and managing alumni interview experiences.
+
+### Highlights
+
+- JWT Authentication
+- Role Based Access Control
+- REST APIs
+- MongoDB Atlas
+- CSV Import
+- Search & Filtering
+- Pagination
+
+**Role**
+
+Backend Developer (Primary)
+
+**Tech**
+
+`Node.js` `Express.js` `MongoDB` `JWT` `React`
+
+> 🔗 **Repository:** *Coming Soon*
+
+</td>
+
+<td width="50%">
+
+```text
+Architecture
+
+React
+   │
+Express API
+   │
+JWT Auth
+   │
+MongoDB Atlas
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## ♻ Smart Waste Collection
+
+AI-assisted waste reporting platform with geolocation support.
+
+### Highlights
+
+- Google Maps Integration
+- Secure Backend APIs
+- MongoDB
+- Incident Tracking
+- Admin Dashboard
+- Report Filtering
+
+**Role**
+
+Backend Developer
+
+**Tech**
+
+`Next.js`
+
+`TypeScript`
+
+`MongoDB`
+
+`Node.js`
+
+> 🔗 **Repository:** *Coming Soon*
+
+</td>
+
+<td width="50%">
+
+```text
+Next.js
+    │
+REST APIs
+    │
+MongoDB
+    │
+Google Maps
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## ☁ Cloud Automation Lab
+
+Automation scripts developed during my Cloud & Automation Internship.
+
+### Highlights
+
+- AWS EC2
+- IAM
+- Auto Scaling
+- Boto3
+- Python Automation
+- Azure Networking
+
+**Tech**
+
+`AWS`
+
+`Python`
+
+`Boto3`
+
+`Bash`
+
+> 🔗 **Repository:** *Coming Soon*
+
+</td>
+
+<td width="50%">
+
+```text
+Python
+   │
+Boto3
+   │
+AWS Services
+   │
+Automation
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Currently Building
+
+- 🚀 Improving **Alumnex** with scalable backend architecture
+- ☁️ Learning **AWS** & Infrastructure Automation
+- 📚 Exploring **System Design**
+- ⚡ Building production-ready backend projects
+
+---
