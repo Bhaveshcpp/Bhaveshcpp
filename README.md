@@ -106,3 +106,158 @@ Share Knowledge.
 ---
 
 > *"Building software that is simple, scalable, and impactful."*
+---
+
+# Featured Projects
+
+<details open>
+<summary><h2>🚀 Alumnex — Placement Intelligence Platform</h2></summary>
+
+A full-stack platform built to centralize and analyze alumni interview experiences, helping students prepare for placements through searchable interview insights.
+
+### Highlights
+
+| Category | Details |
+|----------|---------|
+| **Role** | Full Stack Developer |
+| **Frontend** | React, Vite, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB Atlas |
+| **Authentication** | JWT + Role Based Access |
+| **Deployment** | Ready for Cloud Deployment |
+
+### Key Features
+
+- Secure JWT Authentication
+- Admin Dashboard
+- Role-Based Authorization
+- Search by Company
+- Search by Role
+- Server-side Pagination
+- Bulk CSV Upload
+- Company Management
+- Interview Experience Management
+- MongoDB Atlas Integration
+
+### Engineering Highlights
+
+- RESTful API Design
+- Normalized Database Schema
+- Modular Backend Architecture
+- Scalable Folder Structure
+- Secure Authentication Middleware
+- Express Error Handling
+- Optimized MongoDB Queries
+
+### Impact
+
+- Handles **500+ placement records**
+- Simplifies placement preparation
+- Improves interview data discoverability
+- Enables scalable alumni knowledge sharing
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript"/>
+</p>
+
+> **Status:** Active Development 🚀
+
+</details>
+
+---
+
+<details>
+<summary><h2>♻ Smart Waste Collection System</h2></summary>
+
+An AI-powered waste management platform that enables users to report waste incidents using geotagged images while helping authorities prioritize collection efficiently.
+
+### Highlights
+
+| Category | Details |
+|----------|---------|
+| **Frontend** | Next.js |
+| **Language** | TypeScript |
+| **Database** | MongoDB |
+| **Maps** | Google Maps API |
+| **AI** | Image Classification |
+| **Architecture** | Full Stack |
+
+### Features
+
+- AI-based Waste Detection
+- Image Classification
+- Waste Quantity Estimation
+- Real-time Google Maps
+- Geotagged Incident Reports
+- Report Filtering
+- Admin Dashboard
+
+### Engineering Highlights
+
+- Google Maps Integration
+- AI-assisted Image Processing
+- Modular Next.js Architecture
+- API-based Communication
+- Optimized Database Queries
+
+### Impact
+
+- Supports **50+ live waste reports**
+- Reduced manual categorization effort by **70%**
+- Faster identification of waste hotspots
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb"/>
+</p>
+
+> **Status:** Completed ✅
+
+</details>
+
+---
+
+<details>
+<summary><h2>☁ Cloud Automation Lab</h2></summary>
+
+Automation scripts and cloud infrastructure experiments developed during my Cloud & Automation Internship.
+
+### Technologies
+
+- AWS EC2
+- IAM
+- Auto Scaling
+- Load Balancer
+- Azure VNet
+- Python
+- Boto3
+
+### What I Built
+
+- Automated EC2 provisioning
+- Resource lifecycle automation
+- IAM policy configuration
+- Backup automation
+- High availability architecture
+- Networking automation
+
+### Skills Demonstrated
+
+- Infrastructure Automation
+- Cloud Security
+- Python Scripting
+- AWS Networking
+- Azure Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,python"/>
+</p>
+
+> **Status:** Ongoing Learning
+
+</details>
+
+---
