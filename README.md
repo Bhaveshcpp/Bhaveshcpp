@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:6D28D9,100:7C3AED&text=Bhavesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20•%20Cloud%20Computing%20Enthusiast%20•%20Computer%20Science%20Student&descAlignY=58"/>
 
@@ -485,4 +485,4 @@ A collection of automation scripts and cloud infrastructure experiments develope
 - Distributed Systems
 - Design Patterns
 
----
+--- -->
